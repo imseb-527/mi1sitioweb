@@ -1,0 +1,35 @@
+body {
+    background-color: #2e2e2e; /* Gris oscuro */
+    color: #000; /* Texto general en negro (se usa en los fondos blancos) */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    background-color: #ffffff; /* Blanco */
+    padding: 15px;
+    border-radius: 10px;
+}
+
+p {
+    background-color: #ffffff; /* Blanco */
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 20px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    margin-top: 20px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+video {
+    margin-top: 20px;
+    border-radius: 10px;
+}
